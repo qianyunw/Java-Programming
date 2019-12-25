@@ -1,0 +1,20 @@
+Microsoft Windows [版本 10.0.10586]
+(c) 2015 Microsoft Corporation。保留所有权利。
+
+C:\Users\admin>cd d:\
+
+C:\Users\admin>d:
+
+d:\>java -jar JavaJar.jar
+Please enter a and b:
+4
+6
+Please enter + | - | * | / :
++
+10
+Max:
+6
+Abs:
+2
+
+d:\>

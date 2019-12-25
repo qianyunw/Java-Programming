@@ -1,0 +1,39 @@
+Microsoft Windows [版本 10.0.10586]
+(c) 2015 Microsoft Corporation。保留所有权利。
+
+C:\Users\admin>cd e:
+E:\
+
+C:\Users\admin>../
+'..' 不是内部或外部命令，也不是可运行的程序
+或批处理文件。
+
+C:\Users\admin>cd ../
+
+C:\Users>cd ../
+
+C:\>cd e:
+E:\
+
+C:\>d:
+
+D:\>e:
+
+E:\>java -jar JavaHar.jar
+Error: Unable to access jarfile JavaHar.jar
+
+E:\>java -jar JavaJar.jar
+Please input X1:
+2
+Please input Y1:
+2
+Please input Z:
+4
+Please input angle:
+0.785
+X1:2.0
+Y1:2.0
+X2:4.829553076668799
+Y2:4.827300724421464
+
+E:\>
